@@ -1,4 +1,4 @@
-# StandardDeviationDecomposition
+# Standard Deviation Decomposition
 This script is useful for Standard Deviation Decomposition implemented in R.
 <br/><br/>
 
